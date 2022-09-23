@@ -118,8 +118,6 @@ nav {
     .cover {
         background-position: center;
         background-repeat:repeat;
-        width: 100%;
-        height: auto;
     }
     .landing {
         padding: 0;
