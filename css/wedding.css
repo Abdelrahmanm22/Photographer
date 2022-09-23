@@ -159,43 +159,43 @@ html{
     transform: translateY(0%);
  }
  .panel1{
-    background-image: url('http://drive.google.com/uc?export=view&id=18xVe9hHZowA-WwoA43ESb6gLDnxOnwhC');
-    background-position: center;
- }
- .panel.open.panel1,
- .panel.open.panel2 ,
- .panel.open.panel5
- {
-    background-position: right;
- }
- .panel2{
+   background-image: url('http://drive.google.com/uc?export=view&id=18xVe9hHZowA-WwoA43ESb6gLDnxOnwhC');
+   background-position: center;
+}
+.panel.open.panel1,
+.panel.open.panel2 ,
+.panel.open.panel5
+{
+   background-position: right;
+}
+.panel2{
 
-    background-image: url('http://drive.google.com/uc?export=view&id=1iDSEYLYsNKjOMP_ySuarjVo_2m58-yCE');
-    background-position: center;
- }
- .panel3{
-    background-image: url("http://drive.google.com/uc?export=view&id=1Gz9DvAnoqzkMPPnJOuNVFzn8Q2Wm5wvW");
-    background-position: center;
- }
- .panel.open.panel3{
-    background-position: 70%;
- }
- .panel4{
-    background-image: url('http://drive.google.com/uc?export=view&id=17NZvfrsHuPbkgHqTwh-jJ9T1PZ4SER3t');
-    background-position: center;
- }
- .panel5{
-    background-image: url("http://drive.google.com/uc?export=view&id=1d8_ASTP7lMZH7HcCfeEVlOgwMhA1DlSW");
-    background-position: center;
- }
- .panel6{
-   background-image: url("http://drive.google.com/uc?export=view&id=1cnetDexvtRHMXqqzxCyAI1M-1b2l6lyP");
+   background-image: url('http://drive.google.com/uc?export=view&id=1iDSEYLYsNKjOMP_ySuarjVo_2m58-yCE');
    background-position: center;
- }
- .panel7{
-   background-image: url("http://drive.google.com/uc?export=view&id=1M5bYV1fU9_2zZAr1KJ4tSy2-ddqT8U_T");
+}
+.panel3{
+   background-image: url("http://drive.google.com/uc?export=view&id=1Gz9DvAnoqzkMPPnJOuNVFzn8Q2Wm5wvW");
    background-position: center;
- }
+}
+.panel.open.panel3{
+   background-position: 70%;
+}
+.panel4{
+   background-image: url('http://drive.google.com/uc?export=view&id=17NZvfrsHuPbkgHqTwh-jJ9T1PZ4SER3t');
+   background-position: center;
+}
+.panel5{
+   background-image: url("http://drive.google.com/uc?export=view&id=1d8_ASTP7lMZH7HcCfeEVlOgwMhA1DlSW");
+   background-position: center;
+}
+.panel6{
+  background-image: url("http://drive.google.com/uc?export=view&id=1cnetDexvtRHMXqqzxCyAI1M-1b2l6lyP");
+  background-position: center;
+}
+.panel7{
+  background-image: url("http://drive.google.com/uc?export=view&id=1M5bYV1fU9_2zZAr1KJ4tSy2-ddqT8U_T");
+  background-position: center;
+}
  .showd {
    background: transparent;
    outline: none;
