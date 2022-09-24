@@ -256,6 +256,7 @@ nav {
     left:50%;
     transform: translate(-50% , -50%);
     text-align: center;
+
 }
 .circle {
     width: 200px;
@@ -367,6 +368,9 @@ nav {
     color: #d63447;
 }
 @media screen and (max-width:500px) {
+    .skills{
+        overflow: hidden;
+    }
     .skill-item {
         width: 80%;
         margin: auto;
